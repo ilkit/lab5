@@ -1,0 +1,29 @@
+0 Backend - developer
+1 C# developer
+2 Frontend - developer
+3 HR manager
+4 IT Developer
+5 IT manager
+6 IT Аналитик
+7 IT Директор
+8 IT Инженер
+9 IT Специалист
+10 IT Юрист
+11 IT ассистент
+12 IT консультант
+13 IT копирайтер
+14 IT партнер
+15 IT редактор
+16 IT экономист
+17 IT эксперт
+18 IT-рекрутер
+19 Java developer
+20 Product manager
+21 Project manager
+22 React developer
+23 SMM
+24 Sales manager
+25 Программист
+26 Ресечер
+27 Стажер IT
+28 другие
